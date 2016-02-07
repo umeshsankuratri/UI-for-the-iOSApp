@@ -2,9 +2,6 @@
 //  ViewController.swift
 //  Filterer
 //
-//  Created by Jack on 2015-09-22.
-//  Copyright © 2015 UofT. All rights reserved.
-//
 
 import UIKit
 
